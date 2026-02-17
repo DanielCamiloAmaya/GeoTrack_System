@@ -1,0 +1,1 @@
+Desarrollo de aplicación orientada a objetos con arquitectura modular, que integra gestión de datos y autenticación con confirmación por correo electrónico, junto con un módulo independiente para visualización de coordenadas en Google Maps.
